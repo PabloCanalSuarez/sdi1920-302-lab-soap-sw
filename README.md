@@ -1,2 +1,3 @@
 # sdi1920-302-lab-soap-sw
-SDI - 19/20
+
+Repository for 2019-2020 SDI course assignment.
